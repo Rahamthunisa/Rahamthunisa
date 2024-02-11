@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rahamthunisa
-- 👀 I’m interested in emerging technologies
+- 👀 I’m interested in Web3 & AI
 - 🌱 I’m currently learning MERN
 
 <!---
